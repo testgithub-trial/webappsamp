@@ -1,0 +1,7 @@
+name = "sudharsan"
+subnetname = "ram1"
+region = "asia-northeast1"
+subnetname0 = "ram2"
+region0 = "asia-south1"
+subnetname00 = "ss"
+region00 = "us-central1"
